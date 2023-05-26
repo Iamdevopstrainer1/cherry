@@ -1,0 +1,1 @@
+Hi ,git is distributed version control where each developer or each contributed sink the code from the remote repository
